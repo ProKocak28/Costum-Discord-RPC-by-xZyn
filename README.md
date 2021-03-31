@@ -4,4 +4,4 @@ This is a file for your Costum Discord RPC
 Enjoy
 
 </details>
-[Tutorial]: https://youtu.be/-WBQuAlF_DE
+[Tutorial: https://youtu.be/-WBQuAlF_DE]
