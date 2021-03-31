@@ -2,4 +2,6 @@
 
 This is a file for your Costum Discord RPC
 Enjoy
-[youtube]: https://youtu.be/-WBQuAlF_DE
+
+</details>
+[Tutorial]: https://youtu.be/-WBQuAlF_DE
